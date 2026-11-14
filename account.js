@@ -1,7 +1,7 @@
 // =======================================================
-// WEBSITE NAME (amarbazartopupbd.com)
+// WEBSITE NAME (AMAR BAZAR TOPUP BD)
 // =======================================================
-var website_name = "AMAR BAZAR TOPUP BD";
+var website_name = "amarbazartopupbd.com";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
@@ -21,6 +21,8 @@ var youtube_channel_link = "@mrtahrim.official";
 // =======================================================
 // NOTIFICATION TEXT
 // =======================================================
-var notification_text = `সবথেকে কম দামে টপ করার জন্য সেরা ওয়েবসাইট
+var notification_text = `সবথেকে কম দামে টপ করার জন্য AMAR BAZAR TOPUP BD
 ১০০% বিশ্বস্ত ও দ্রুত ডেলিভারিতে 
 অর্ডার করুন নিশ্চিন্তে ♥️`;
+var notification_text = `জরুরি নির্দেশ :
+ বৃদ্ধ মা-বাবা বা ফ্যামিলির কারো ফোন থেকে টাকা চুরি করে টপ-আপ করা নিষিদ্ধ`:
